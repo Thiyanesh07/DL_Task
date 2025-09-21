@@ -10,6 +10,8 @@ This project implements a convolutional neural network (CNN) to classify images 
 2. **Web Application**: Interactive Gradio interface for real-time image classification
 3. **Pre-trained Model**: Saved model weights ready for inference
 
+## Live App Link : https://huggingface.co/spaces/Thiyanesh07/Image_classification
+
 ## Project Structure
 
 ```
